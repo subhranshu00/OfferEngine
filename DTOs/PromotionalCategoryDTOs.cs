@@ -1,6 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 using Models;
+using System.Data;
 
 namespace DTOs
 {
